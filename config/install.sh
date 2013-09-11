@@ -21,7 +21,7 @@ diff .gitconfig $HOME/.gitconfig
 echo "copying new .gitconfig"
 cp .gitconfig $HOME/
 echo "Please set up name and email in .gitconifg"
-read -p "press [Enter] to continue"
+read -n 1 -p "press [Any Key] to continue"
 nano $HOME/.gitconfig
 
 
