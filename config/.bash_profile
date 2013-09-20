@@ -1,6 +1,7 @@
 # usefull aliases
 alias ltr='ls -lthr --color'
 alias ls='ls -la -h --color'
+alias ll='ls -la --color'
 alias rm='rm -rf'
 alias mc='mc -b'
 alias mcedit='mcedit -b'
