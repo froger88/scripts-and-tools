@@ -1,0 +1,16 @@
+#### TODO ####
+
+1. Liczenie ilosci "liczb w linii" w padnietych wygranych (zarowno pionowo jak i poziomo)
+2. Na podstawie w/w danych obliczenie sredniej oraz mediany, ilosci minimalnej i maxymalnej
+3. Uwzglednienie w/w danych w postprocessingu (sprawdzanie podobienstwa, maxymalne zblizenie do w/w danych)
+
+-----------------------CHANGELOG-----------------------
+
+--- v 1.0.0 14.11.2013---
+
+1. Sortowanie liczb wedlug czestotliwosci - DONE
+2. Wypisywanie 6 najrzadszych oraz najczestszych liczb wedlug czestotliowsci - DONE
+3. Sortowanie liczb wedlug ostatniego losowania - DONE
+4. Wypisywanie 6 liczb wedlug ostatniego losowania - DONE
+5. Losowanie 6 liczb ze zlaczaonych w/w zbiorow - DONE
+6. Sprawdzanie podobienstwa wylosowanych liczb ze wszystkimi innymi losowaniami i wybieranie tylko najmniejszych - DONE
