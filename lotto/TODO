@@ -3,6 +3,8 @@
 1. Liczenie ilosci "liczb w linii" w padnietych wygranych (zarowno pionowo jak i poziomo)
 2. Na podstawie w/w danych obliczenie sredniej oraz mediany, ilosci minimalnej i maxymalnej
 3. Uwzglednienie w/w danych w postprocessingu (sprawdzanie podobienstwa, maxymalne zblizenie do w/w danych)
+4. Auto-updater danych losowan
+5. Wskazac ile liczb z danej grupy ma zostac uwzglednianych w losowaniu do docelowego (np. 2 liczby z najwyzszej czestotliwosci, 2 liczby z najrzadszych i 2 liczby wedle ost. losowania)
 
 -----------------------CHANGELOG-----------------------
 
