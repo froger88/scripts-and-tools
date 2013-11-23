@@ -1,0 +1,20 @@
+
+-----------------------CHANGELOG-----------------------
+
+--- v 1.1.0 23.11.2013 ---
+
+1. modul obslugi mini-lotto
+2. wydzielenie modulu analyse
+3. wydzielenie modulu core
+4. oddzielenie obslugi duzego lotka do osobnego modulu
+5. zmiana zachowania funkcji generate_num_tab (dodanie parametru ile liczb ma byc uwzglednionych)
+6. wydzielenie changeloga
+
+--- v 1.0.0 14.11.2013 ---
+
+1. Sortowanie liczb wedlug czestotliwosci - DONE
+2. Wypisywanie 6 najrzadszych oraz najczestszych liczb wedlug czestotliowsci - DONE
+3. Sortowanie liczb wedlug ostatniego losowania - DONE
+4. Wypisywanie 6 liczb wedlug ostatniego losowania - DONE
+5. Losowanie 6 liczb ze zlaczaonych w/w zbiorow - DONE
+6. Sprawdzanie podobienstwa wylosowanych liczb ze wszystkimi innymi losowaniami i wybieranie tylko najmniejszych - DONE

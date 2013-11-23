@@ -5,14 +5,4 @@
 3. Uwzglednienie w/w danych w postprocessingu (sprawdzanie podobienstwa, maxymalne zblizenie do w/w danych)
 4. Auto-updater danych losowan
 5. Wskazac ile liczb z danej grupy ma zostac uwzglednianych w losowaniu do docelowego (np. 2 liczby z najwyzszej czestotliwosci, 2 liczby z najrzadszych i 2 liczby wedle ost. losowania)
-
------------------------CHANGELOG-----------------------
-
---- v 1.0.0 14.11.2013---
-
-1. Sortowanie liczb wedlug czestotliwosci - DONE
-2. Wypisywanie 6 najrzadszych oraz najczestszych liczb wedlug czestotliowsci - DONE
-3. Sortowanie liczb wedlug ostatniego losowania - DONE
-4. Wypisywanie 6 liczb wedlug ostatniego losowania - DONE
-5. Losowanie 6 liczb ze zlaczaonych w/w zbiorow - DONE
-6. Sprawdzanie podobienstwa wylosowanych liczb ze wszystkimi innymi losowaniami i wybieranie tylko najmniejszych - DONE
+6. Napisac modul obslugi multilotka
