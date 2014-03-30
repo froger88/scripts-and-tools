@@ -1,0 +1,15 @@
+# -*- coding: utf-8 -*-
+
+keywords = [
+'keyword'
+]
+
+languages = [
+ 'pl',
+]
+
+api_key="ASDFG"
+api_secret="GHIJ"
+
+access_token="KLMN"
+access_token_secret="OPRS"
