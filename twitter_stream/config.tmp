@@ -1,15 +1,21 @@
 # -*- coding: utf-8 -*-
 
 keywords = [
-'keyword'
+'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','r','s','t','u','v','x','y','z'
 ]
 
 languages = [
  'pl',
 ]
 
-api_key="ASDFG"
-api_secret="GHIJ"
 
-access_token="KLMN"
-access_token_secret="OPRS"
+max_count = 1000000
+task_id = 'pl_1'
+
+
+api_key=""
+api_secret=""
+
+access_token=""
+access_token_secret=""
+
